@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Basic-Modal-Project/static/css/main.24ca71d4.css",
+    "main.js": "/Basic-Modal-Project/static/js/main.b74be4aa.js",
+    "index.html": "/Basic-Modal-Project/index.html",
+    "main.24ca71d4.css.map": "/Basic-Modal-Project/static/css/main.24ca71d4.css.map",
+    "main.b74be4aa.js.map": "/Basic-Modal-Project/static/js/main.b74be4aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ca71d4.css",
+    "static/js/main.b74be4aa.js"
+  ]
+}
